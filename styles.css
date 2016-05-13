@@ -1,2 +1,23 @@
 li {
   list-style:none;
+  margin:0;
+  padding:0;
+}
+.nav>li,
+.nav>li>a
+{
+  display:inline-block;
+}
+.stacked>li
+{
+  display:list-item;
+}
+.stacked>li>a
+{
+  display:block;
+}
+.flyout,
+.flyout-alt
+{
+  position:relative;
+}
