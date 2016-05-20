@@ -26,8 +26,12 @@ ul#menu li a {
     border-bottom:7px solid orange;
 }
 
-ul#menu li.active, ul#menu li:hover {
-    background-color: Transparent;
+ul#menu li.active {
+    background-color: transparent;
+    border-bottom: 5px solid orange;
+}
+ ul#menu li:hover {
+    background-color: red;
     border-bottom: 5px solid yellow;
 }
 
