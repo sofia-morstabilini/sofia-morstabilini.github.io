@@ -4,7 +4,7 @@ ul#menu {
     padding: 5;
 }
 ul#menu li {
-    background-color: blue;
+    background-color: transparent;
     border-bottom: none;
     display: block;
     width: 150px;
@@ -13,7 +13,7 @@ ul#menu li {
     float: left;
 }
 ul#menu li a {
-    color: white;
+    color: grey;
     display: block;
     font-weight: bold;
     line-height: 30px;
