@@ -2,13 +2,9 @@
  div#menu {
       font-size: 15px;
       margin: 2;
-      padding: 5;
+      padding: 8;
   }
- div#menu li {
-    transition-property: background-color;
-  transition-duration: 0.2s;
-    transition-timing-function: ease;
- }
+
  div#menu li {
       background-color: blue;
       border-bottom: none;
