@@ -30,12 +30,7 @@ div#menu li a {
     background-color: transparent;
     border-bottom:7px solid orange;
 }
-div#menu li:hover {
-    background-color: green;
-    border-bottom: none;
-    border-radius:0 0 9px 9px;
--moz-border-radius:0 0 9px 9px;
--webkit-border-radius:0 0 9px 9px;}
+
 div#menu li.active, ul#menu li:hover {
     background-color: Transparent;
     border-bottom: 5px solid yellow;
