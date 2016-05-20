@@ -22,7 +22,7 @@ ul#menu li a {
     text-align: center;
 }
   ul#menu li li:hover {
-    background-color: transparent;
+    background-color: red;
     border-bottom:7px solid orange;
 }
 
