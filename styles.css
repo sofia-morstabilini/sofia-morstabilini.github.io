@@ -21,7 +21,7 @@ ul#menu li a {
     height: 30px;
     text-align: center;
 }
-  ul#menu li li:hover {
+  ul#menu li:hover {
     background-color: red;
     border-bottom:7px solid orange;
 }
