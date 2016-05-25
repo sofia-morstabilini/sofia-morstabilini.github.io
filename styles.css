@@ -13,7 +13,7 @@ ul#menu li {
     float: left;
 }
 ul#menu li a {
-    color: #00CED1;
+    color: #0000FF;
     display: block;
     font-weight: bold;
     line-height: 30px;
@@ -22,8 +22,8 @@ ul#menu li a {
     text-align: center;
 }
   ul#menu li:hover {
-    background-color: #0000CD;
-    border-bottom:7px #9400D3;
+    background-color: #99CCFF;
+    border-bottom:7px #660099;
 }
 
 ul#menu li.active {
