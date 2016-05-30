@@ -6,7 +6,7 @@ html {
     background-size: cover;
 }
 ul#menu {
-    font-size: 15px;
+    font-size: 20px;
     margin: 2;
     padding: 5;
 }
@@ -22,7 +22,7 @@ ul#menu li {
  
 }
 ul#menu li a {
-    color: #1C86EE;
+    color: #800080;
     display: block;
     font-weight: bold;
     line-height: 30px;
@@ -37,11 +37,11 @@ ul#menu li a {
 
 ul#menu li.active {
     background-color: transparent;
-    border-bottom: 5px solid 	#5CACEE;
+    border-bottom: 5px solid #B0C4DE ;
 }
  ul#menu li:hover {
     background-color: #B0E2FF;
-    border-bottom: 5px solid #87CEFA;
+    border-bottom: 5px solid #EAEAEA;
 }
  
 
