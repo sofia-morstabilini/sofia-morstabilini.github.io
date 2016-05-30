@@ -35,7 +35,7 @@ ul#menu li.active {
     border-bottom: 5px solid #87CEFA;
 }
  
-body{background-image:url(http://www.ilresidencedellamusica.org/wp-content/uploads/2015/01/sfondo_astratto_blu_393.jpg); background-repeat: no-repeat;
+body{background-image:url(http://www.ilresidencedellamusica.org/wp-content/uploads/2015/01/sfondo_astratto_blu_393.jpg); background-repeat: no-repeat; width="100%"; height="100%"
     -background-position: center bottom;
  --moz-background-size: cover;
  --webkit-background-size: cover;
