@@ -43,6 +43,16 @@ ul#menu li.active {
     background-color: #B0E2FF;
     border-bottom: 5px solid #EAEAEA;
 }
- 
+ div.split2 div{
+    float: left;
+    width: 45%;
+    width: 49%;
+    width: 45%;
+    padding: 0 2%
+    }
+
+div.clearer{
+    float: none; clear: left
+    }
 
 
